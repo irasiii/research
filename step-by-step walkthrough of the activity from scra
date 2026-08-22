@@ -1,0 +1,40 @@
+step-by-step walkthrough of the activity from scratch, Cyber Security and Australian Small Businesses and grounded in the ACSC survey report QUT provided.
+
+Step 1: Identify recurring research planning tasks
+As I develop my research proposal on cyber security and Australian small businesses, three recurring research planning tasks are likely to arise:
+
+	1. Finding and evaluating literature on SME cyber security practices, barriers and behaviours, including locating academic studies and authoritative government reports such as the ACSC Small Business Survey.
+	2. Organising evidence and themes from multiple sources — for example, grouping findings around cyber security spending, outsourcing decisions, risk perception and awareness gaps.
+	3. Clarifying a possible research gap by comparing existing findings (such as the 2019/2020 ACSC data) with more recent studies to identify what remains unexplored, for example, whether SME cyber security behaviours have changed since the ACSC survey was conducted.
+
+Step 2: Select one use case
+I have selected a literature search support agent as my use case. This is a small, achievable project for the teaching period, useful to a real audience (myself and future researchers examining SME cyber security), and appropriate for a simple AI agent, since it focuses on supporting information gathering and organisation rather than making research decisions.
+
+Step 3: Check suitability for a low-risk research support role
+This use case is appropriate because:
+
+	* The agent supports finding, explaining and organising literature and evidence relevant to SME cyber security — it does not generate findings or make research decisions itself.
+	* The agent's outputs (such as suggested search terms, thematic groupings or summaries) can be checked against scholarly databases and official sources like the Australian Cyber Security Centre (ACSC) website.
+	* The agent's limits are clear: it cannot verify statistical accuracy, assess source credibility, or replace supervisor guidance on the direction of the literature review.
+
+This use case does not involve human participants, sensitive personal data or high-risk decisions, as it is limited to supporting my own literature search process using publicly available academic and government sources. Where statistics or claims relate to sensitive topics (such as business vulnerability to cyber incidents), I will treat the agent's output as a starting point only, verifying all figures against the original ACSC report or other official sources before use.
+
+Step 4: Use Case Statement
+Intended user: A postgraduate research student developing a research proposal on cyber security practices among Australian small businesses, who needs support navigating the early stages of a literature search.
+
+Research planning task supported: The agent assists the user in identifying relevant keywords and search terms (e.g., "SME cyber security," "small business data breach Australia," "Essential Eight mitigation strategies," "cyber security outsourcing"), suggesting appropriate academic databases and government sources, and helping organise retrieved literature into themes such as barriers to adoption, cyber security spending, outsourcing versus DIY approaches, and risk perception.
+
+Connection to emerging research topic: My research explores why Australian small businesses remain highly vulnerable to cyber threats despite growing awareness of cyber security risks. The ACSC Small Business Survey (2020) provides key baseline evidence for this topic, revealing that 62 per cent of surveyed SMBs had experienced a cyber incident, nearly half spend less than $500 annually on cyber security, and many businesses rely on a DIY approach despite low implementation of the Essential Eight Mitigation Strategies. This agent would help me locate and organise complementary academic literature and government reports around these themes, such as studies on SME risk perception, cyber security decision-making biases, and outsourcing effectiveness.
+
+Likely benefit: The agent would save time by suggesting relevant search terms specific to the Australian SME context, summarising the focus of retrieved abstracts, and helping group sources into thematic categories aligned with findings from the ACSC report. This would allow me to more efficiently build a literature review that connects academic research with authoritative government data, and identify where gaps remain — for example, whether SME cyber security practices have improved since the ACSC survey was conducted.
+
+Limits of the agent's role: The agent does not evaluate the quality, credibility or methodological rigour of sources, does not determine which studies are most authoritative or applicable to the Australian small business context, and does not replace a systematic, supervisor-guided search strategy. It cannot verify whether statistics on breach rates or cyber security spending are current or accurate compared to the original ACSC data.
+
+Ethical/integrity risk to manage: There is a risk of the agent generating inaccurate, outdated or misattributed statistics about small business cyber security incidents, or presenting the 2019 ACSC survey findings as current without checking for more recent data. This risk must be managed by independently verifying all statistics, claims and sources through the QUT Library, the Australian Cyber Security Centre's official website, and other authoritative government publications before including them in my proposal.
+
+Where human judgement remains essential: I remain responsible for critically appraising the quality, currency and relevance of each source, interpreting how findings such as the ACSC survey data relate to current challenges facing Australian small businesses, and identifying a genuine, well-justified research gap. Supervisor guidance remains essential for confirming the scope of the literature review, validating my interpretation of SME-specific data, and approving the overall direction of the proposal.
+
+Step 5: Justification
+This use case matters because Australian small businesses represent a significant and under-researched area of cyber security vulnerability, and efficiently mapping the existing literature is essential to identifying a credible, well-scoped research problem. The ACSC Small Business Survey provides valuable baseline data — such as low cyber security spending, gaps in awareness (e.g., one in five SMBs unaware of the term "phishing"), and the complex relationship between outsourcing and actual security posture — which can help ground my research in real, authoritative evidence. A simple AI agent that helps generate targeted search terms and organise sources into themes aligned with this data can substantially improve the efficiency of this early planning stage without taking over the intellectual work of research.
+
+Importantly, the agent does not replace my responsibility to critically evaluate the credibility and currency of sources, particularly given that the ACSC report is based on 2019 data and the cyber threat landscape evolves rapidly. All AI-suggested sources, figures and summaries must be independently verified against original publications, official Australian government data, and peer-reviewed literature to avoid misrepresenting the scale or nature of the problem, or presenting outdated statistics as current. Supervisor input remains essential for validating the research gap I identify and ensuring the proposal is grounded in accurate, credible and up-to-date evidence. Used this way, the agent supports efficient, credible research planning while ensuring that scholarly judgement, ethical responsibility and accuracy remain firmly with me as the researcher.
